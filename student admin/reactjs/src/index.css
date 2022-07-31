@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Sora', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-preline {
+  white-space: pre-line;
+}
+
+.ms {
+  margin-left: 0 !important;
+}
